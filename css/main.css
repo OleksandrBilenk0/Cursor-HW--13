@@ -12,6 +12,7 @@ body {
     font-family: "HelveticaNeueLight";
     font-size: 14px;
     letter-spacing: 0.05em;
+    font-display: "HelveticaNeueLight";
 }
 
 * {
@@ -47,6 +48,7 @@ header .phone {
     display: block;
     text-align: right;
     font-family: "HelveticaNeueMedium";
+    font-display: "HelveticaNeueMedium";
     padding-right: 2px;
     margin-bottom: 5px;
     margin-top: 12px;
@@ -63,6 +65,7 @@ header .phone {
 .plus {
     font-size: 72px;
     font-family: "HelveticaNeueBold";
+    font-display: "HelveticaNeueBold";
     color: #ffdc00;
     left: 0;
     top: 50%;
@@ -96,6 +99,7 @@ header .phone {
     -ms-transform: rotate(15deg);
     transform: rotate(15deg);
     font-family: "HelveticaNeueBold";
+    font-display: "HelveticaNeueBold";
 }
 
 .price .old-price {
@@ -113,6 +117,7 @@ header .phone {
 
 b {
     font-family: "HelveticaNeueBold";
+    font-display: "HelveticaNeueBold";
 }
 
 .btn-call {
@@ -136,7 +141,8 @@ button {
     letter-spacing: 0.05em;
     font-size: 18px;
     text-transform: uppercase;
-    font-family: HelveticaNeueBold;
+    font-family: "HelveticaNeueBold";
+    font-display: "HelveticaNeueBold";
     background-color: #ffdc00;
     color: #333;
     height: 45px;
@@ -156,6 +162,8 @@ button {
     text-align: center;
     padding-top: 50px;
     font-family: "HelveticaNeueBold";
+    font-display: "HelveticaNeueBold";
+
 }
 
 .h2:after {
@@ -184,6 +192,7 @@ button {
 .main-screen .h1 {
     font-size: 36px;
     font-family: "HelveticaNeueBold";
+    font-display: "HelveticaNeueBold";
     text-transform: uppercase;
     letter-spacing: 0.05em;
     line-height: 72px;
@@ -200,6 +209,7 @@ button {
     margin-top: 40px;
     line-height: 36px;
     font-family: "HelveticaNeueThin";
+    font-display: "HelveticaNeueThin";
     letter-spacing: 0.08em;
 }
 
@@ -235,12 +245,14 @@ button {
 .about .param {
     font-size: 16px;
     font-family: "HelveticaNeueMedium";
+    font-display: "HelveticaNeueMedium";
 }
 
 .about .value {
     font-size: 14px;
     color: #9a9a9a;
     font-family: "HelveticaNeueLightItalic";
+    font-display: "HelveticaNeueLightItalic";
     margin-top: 10px;
 }
 
@@ -319,6 +331,7 @@ button {
 
 .reasons .reason .h4 {
     font-size: 15px;
+    font-display: "HelveticaNeueBold";
     font-family: "HelveticaNeueBold";
     color: #f4d52a;
     margin-top: 5px;
@@ -411,6 +424,7 @@ button {
     display: inline-block;
     font-size: 18px;
     text-transform: uppercase;
+    font-display: "HelveticaNeueMedium";
     font-family: "HelveticaNeueMedium";
 }
 
@@ -418,6 +432,7 @@ button {
     margin-top: 10px;
     margin-bottom: 10px;
     font-family: "HelveticaNeueBold";
+    font-display: "HelveticaNeueBold";
     font-size: 24px;
 }
 
@@ -535,75 +550,13 @@ button.slick-prev, .slick-next {
     z-index: 9;
 }
 
-/* button.slick-prev, .slick-next {
-    
-    height: 70px;
-    z-index: 9;
-} */
-
-/* .reviews .arrow-left, .reviews .arrow-right {
-    position: absolute;
-    top: 50%;
-    -webkit-transform: translate(0, -50%);
-    -ms-transform: translate(0, -50%);
-    transform: translate(0, -50%);
-}
-
-.reviews .arrow-right {
-    right: 50px;
-}
-
-.reviews .arrow-left {
-    left: 50px;
-}
-
-.reviews .review-slider {
-    width: 90%;
-    max-width: 900px;
-    margin: 50px auto;
-}
-
-.reviews .review-text {
-    display: inline-block;
-    width: calc(70% - 15px);
-    margin-left: 15px;
-    line-height: 24px;
-    vertical-align: top;
-}
-
-.reviews .main-review-img {
-    width: calc(30% - 15px);
-    margin-right: 10px;
-    border: 5px solid #ffdc00;
-    vertical-align: top;
-    display: inline-block;
-    height: auto;
-}
-
-.reviews .review-author {
-    display: block;
-    text-align: right;
-    margin: 10px 0 auto 0;
-    vertical-align: top;
-    padding-top: 15px;
-}
-
-.reviews .review-author > * {
-    vertical-align: top;
-}
-
-.reviews .review-author .ava {
-    position: relative;
-    top: -15px;
-    margin-right: 10px;
-} */
-
 .delivery .h2 {
     margin-bottom: 50px;
 }
 
 .delivery .h4 {
     font-family: "HelveticaNeueBold";
+    font-display: "HelveticaNeueBold";
     text-transform: uppercase;
     font-size: 18px;
     margin-bottom: 30px;
@@ -651,6 +604,7 @@ button.slick-prev, .slick-next {
 .advantages .adv-title {
     margin-top: 15px;
     font-family: "HelveticaNeueBold";
+    font-display: "HelveticaNeueBold";
     font-size: 18px;
 }
 
