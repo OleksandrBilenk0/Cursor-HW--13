@@ -507,7 +507,6 @@ button.slick-prev, .slick-next {
     line-height: 0 !important;
     width: 47px;
     opacity: 1 !important;
-    /* color: #00ADEE !important; */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     margin-left: -250px;
