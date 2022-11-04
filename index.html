@@ -9,9 +9,9 @@
     <link rel="stylesheet" href="css/fonts.css">
     <link rel="stylesheet" href="css/main.css">
 
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" defer href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
  
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+    <link rel="stylesheet" type="text/css" defer href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
     
 </head>
 <body>
@@ -341,7 +341,7 @@
 
     </div>
 </footer>
-<script src="lib/plugins.js"></script>
+<script defer src="lib/plugins.js"></script>
 <script>
     // 2. This code loads the IFrame Player API code asynchronously.
     var tag = document.createElement('script');
@@ -385,13 +385,15 @@
     }
 </script>
 
-<script>$('.variable-width').slick({
+<script>
+    $('.variable-width').slick({
         dots: true,
         infinite: true,
         speed: 500,
         slidesToShow: 1,
         centerMode: true,
         variableWidth: true
-    });</script>
+    });
+</script>
 </body>
 </html>
