@@ -12,7 +12,6 @@ body {
     font-family: "HelveticaNeueLight";
     font-size: 14px;
     letter-spacing: 0.05em;
-    font-display: "HelveticaNeueLight";
 }
 
 * {
@@ -48,7 +47,6 @@ header .phone {
     display: block;
     text-align: right;
     font-family: "HelveticaNeueMedium";
-    font-display: "HelveticaNeueMedium";
     padding-right: 2px;
     margin-bottom: 5px;
     margin-top: 12px;
@@ -65,7 +63,6 @@ header .phone {
 .plus {
     font-size: 72px;
     font-family: "HelveticaNeueBold";
-    font-display: "HelveticaNeueBold";
     color: #ffdc00;
     left: 0;
     top: 50%;
@@ -99,7 +96,6 @@ header .phone {
     -ms-transform: rotate(15deg);
     transform: rotate(15deg);
     font-family: "HelveticaNeueBold";
-    font-display: "HelveticaNeueBold";
 }
 
 .price .old-price {
@@ -117,7 +113,6 @@ header .phone {
 
 b {
     font-family: "HelveticaNeueBold";
-    font-display: "HelveticaNeueBold";
 }
 
 .btn-call {
@@ -141,8 +136,7 @@ button {
     letter-spacing: 0.05em;
     font-size: 18px;
     text-transform: uppercase;
-    font-family: "HelveticaNeueBold";
-    font-display: "HelveticaNeueBold";
+    font-family: HelveticaNeueBold;
     background-color: #ffdc00;
     color: #333;
     height: 45px;
@@ -162,8 +156,6 @@ button {
     text-align: center;
     padding-top: 50px;
     font-family: "HelveticaNeueBold";
-    font-display: "HelveticaNeueBold";
-
 }
 
 .h2:after {
@@ -192,7 +184,6 @@ button {
 .main-screen .h1 {
     font-size: 36px;
     font-family: "HelveticaNeueBold";
-    font-display: "HelveticaNeueBold";
     text-transform: uppercase;
     letter-spacing: 0.05em;
     line-height: 72px;
@@ -209,7 +200,6 @@ button {
     margin-top: 40px;
     line-height: 36px;
     font-family: "HelveticaNeueThin";
-    font-display: "HelveticaNeueThin";
     letter-spacing: 0.08em;
 }
 
@@ -245,14 +235,12 @@ button {
 .about .param {
     font-size: 16px;
     font-family: "HelveticaNeueMedium";
-    font-display: "HelveticaNeueMedium";
 }
 
 .about .value {
     font-size: 14px;
     color: #9a9a9a;
     font-family: "HelveticaNeueLightItalic";
-    font-display: "HelveticaNeueLightItalic";
     margin-top: 10px;
 }
 
@@ -331,7 +319,6 @@ button {
 
 .reasons .reason .h4 {
     font-size: 15px;
-    font-display: "HelveticaNeueBold";
     font-family: "HelveticaNeueBold";
     color: #f4d52a;
     margin-top: 5px;
@@ -424,7 +411,6 @@ button {
     display: inline-block;
     font-size: 18px;
     text-transform: uppercase;
-    font-display: "HelveticaNeueMedium";
     font-family: "HelveticaNeueMedium";
 }
 
@@ -432,7 +418,6 @@ button {
     margin-top: 10px;
     margin-bottom: 10px;
     font-family: "HelveticaNeueBold";
-    font-display: "HelveticaNeueBold";
     font-size: 24px;
 }
 
@@ -550,13 +535,13 @@ button.slick-prev, .slick-next {
     z-index: 9;
 }
 
+
 .delivery .h2 {
     margin-bottom: 50px;
 }
 
 .delivery .h4 {
     font-family: "HelveticaNeueBold";
-    font-display: "HelveticaNeueBold";
     text-transform: uppercase;
     font-size: 18px;
     margin-bottom: 30px;
@@ -604,7 +589,6 @@ button.slick-prev, .slick-next {
 .advantages .adv-title {
     margin-top: 15px;
     font-family: "HelveticaNeueBold";
-    font-display: "HelveticaNeueBold";
     font-size: 18px;
 }
 
