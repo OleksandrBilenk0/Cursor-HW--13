@@ -146,11 +146,11 @@ header .phone {
 }
 
 .price .new-price {
-    color: #ffdc00;
+    color: #ccb100;
 }
 
 .yellow {
-    color: #ffdc00;
+    color: #ccb100;
 }
 
 b {
@@ -281,7 +281,7 @@ button {
 
 .about .value {
     font-size: 14px;
-    color: #9a9a9a;
+    color: #3d3d3d;
     font-family: "HelveticaNeueLightItalic";
     margin-top: 10px;
 }
