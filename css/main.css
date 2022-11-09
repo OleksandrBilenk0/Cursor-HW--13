@@ -150,7 +150,7 @@ header .phone {
 }
 
 .yellow {
-    color: #ffc400;
+    color: #ff9100;
 }
 
 b {
@@ -369,7 +369,7 @@ button {
 
 .reasons .reason .reason-text {
     font-size: 13px;
-    color: #8b8b8b;
+    color: #474747;
     width: 85%;
     margin: 0 auto;
 }
