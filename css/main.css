@@ -212,7 +212,7 @@ button {
 .main-screen {
     min-height: 1px;
     height: 700px;
-    background-image: url("../img/main-screen-bg.jpg");
+    background-image: url("../img/main-screen-bg.avif");
     background-position: 50%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -470,10 +470,7 @@ button {
 
 .coments {
     display: flex;
-    flex-direction: column;
     text-align: center;
-    width: 100%;
-    height: 1000px;
 }
 
 .slick-track {
